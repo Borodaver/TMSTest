@@ -14,6 +14,7 @@
 		8202A83B2B1534E0003E1F33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8202A83A2B1534E0003E1F33 /* Assets.xcassets */; };
 		8202A83E2B1534E0003E1F33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8202A83C2B1534E0003E1F33 /* LaunchScreen.storyboard */; };
 		8202A84A2B15EBD1003E1F33 /* Model #1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8202A8492B15EBD1003E1F33 /* Model #1.swift */; };
+		825C92052B2E56E200B01ACB /* Authorization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 825C92042B2E56E200B01ACB /* Authorization.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8202A83D2B1534E0003E1F33 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8202A83F2B1534E0003E1F33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8202A8492B15EBD1003E1F33 /* Model #1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Model #1.swift"; sourceTree = "<group>"; };
+		825C92042B2E56E200B01ACB /* Authorization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Authorization.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				8202A8312B1534DD003E1F33 /* AppDelegate.swift */,
 				8202A8332B1534DD003E1F33 /* SceneDelegate.swift */,
 				8202A8352B1534DD003E1F33 /* ViewController.swift */,
+				825C92042B2E56E200B01ACB /* Authorization.swift */,
 				8202A8492B15EBD1003E1F33 /* Model #1.swift */,
 				8202A8372B1534DD003E1F33 /* Main.storyboard */,
 				8202A83A2B1534E0003E1F33 /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 				8202A8322B1534DD003E1F33 /* AppDelegate.swift in Sources */,
 				8202A84A2B15EBD1003E1F33 /* Model #1.swift in Sources */,
 				8202A8342B1534DD003E1F33 /* SceneDelegate.swift in Sources */,
+				825C92052B2E56E200B01ACB /* Authorization.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
